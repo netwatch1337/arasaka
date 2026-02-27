@@ -1,5 +1,5 @@
-# arasaka
-yo
----
-yes arasaka11 can access this 
----
+# Arasaka
+
+![Cyberpunk Character Portrait](path/to/your/image.png)
+
+Description of the project goes here.
